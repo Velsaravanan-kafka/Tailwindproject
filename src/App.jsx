@@ -296,7 +296,7 @@ function App() {
       <HeroSection/>
       
       {/* === ADD THE NEW COMPONENT HERE === */}
-      <StickyScrollSection />
+      <StickyScrollSection/>
 
       {/* === Add some content AFTER the sticky section to show it works === */}
       <div className="h-screen bg-white flex items-center justify-center">
